@@ -1,2 +1,2 @@
 # scale-kube-deploy
-scaled down and scale up the kubernetes workload with input params using python
+scaled-down and scaled up the Kubernetes workload with input params using python and kube apis
